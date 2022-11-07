@@ -1,3 +1,11 @@
+    Nama    : Nadya Khairunnisa
+    
+    Nim     : 312210133
+    
+    Kelas   : TI.22.A1
+
+
+
 KONDISI DAN PERULANGAN
 
 Lab 2 Struktur Kondisi
