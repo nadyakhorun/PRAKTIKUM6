@@ -1,6 +1,8 @@
-##KONDISI DAN PERULANGAN
-###Lab 2 Struktur Kondisi
-####Latihan 1
+KONDISI DAN PERULANGAN
+
+Lab 2 Struktur Kondisi
+
+Latihan 1
 • Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
 
 Langkah - langkah
@@ -23,6 +25,7 @@ Langkah - langkah
 ![run 1](https://user-images.githubusercontent.com/115801823/200343024-7335a6f2-3318-4870-a88e-8c916aebb733.PNG)
 
 Latihan 2
+
 • Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 
 Langkah - langkah
@@ -57,7 +60,9 @@ Langkah - langkah
 ![run 2](https://user-images.githubusercontent.com/115801823/200343858-d4159a49-fc39-489e-acca-5fe60504ee11.PNG)
 
 Lab 3 Perulangan
+
 Latihan 1
+
 • Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
 Langkah - langkah
@@ -76,6 +81,7 @@ Langkah - langkah
 ![run 3](https://user-images.githubusercontent.com/115801823/200344859-8082684d-5830-4558-8570-c1c8f0aa0afe.PNG)
 
 Latihan 2
+
 • Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 
 • nilai n diisi pada saat runtime
@@ -101,8 +107,11 @@ Langkah - langkah
 ![run 4](https://user-images.githubusercontent.com/115801823/200345529-50b9ede0-e071-4cad-9531-23e106b72360.PNG)
 
 MODUL PRAKTIKUM 2 DAN 3
+
 Labpy02 dan Labpy03
+
 Labpy02
+
 • Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 
 Langkah - langkah
@@ -131,12 +140,15 @@ Langkah - langkah
 ![run 5](https://user-images.githubusercontent.com/115801823/200347031-5b3c364b-fae0-432e-a3c0-079b63541996.PNG)
 
 Labpy03
+
 Latihan 1
+
 Flowchart dari latihan 1
 
 ![200159707-ccb1abdb-be69-4849-96c8-6c02c439d199](https://user-images.githubusercontent.com/115801823/200347193-02e0f924-4055-4a30-8bd3-a4fad535dd5f.png)
 
 Algoritma dari latihan 1
+
 Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi pada saat runtime.
 
 1.Memasukan/ import fungsi RANDOM terlebih dahulu
@@ -173,11 +185,13 @@ Langkah - langkah
 ![run 6](https://user-images.githubusercontent.com/115801823/200347936-e5ea8f6a-f620-416e-8596-bd4bc256b959.PNG)
 
 Latihan 2
+
 Flowchart dari latihan 2
 
 ![200159970-42dd1c12-2af8-416d-b808-822ed3c3c7fc](https://user-images.githubusercontent.com/115801823/200348255-0af9262f-70eb-47dd-aa24-cd119827c0d2.png)
 
 Algoritma latihan 2
+
 Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.Masukkan angka 0 untuk berhenti
 
 1.Mulai
@@ -222,11 +236,13 @@ Langkah - langkah
 ![run 7](https://user-images.githubusercontent.com/115801823/200349011-98b2664f-0b25-4fc3-8ec9-f222723728a6.PNG)
 
 Program 1
+
 Flowchart dari program 1
 
 ![200160200-2f3db728-7d3d-48c0-b21a-b8d3bf11438b](https://user-images.githubusercontent.com/115801823/200349134-bdde8962-47de-401f-b0b8-e91ff808b329.png)
 
 Algoritma dari program 1
+
 1.Mulai
 
 2.Mencetak latihan1
@@ -282,4 +298,4 @@ Langkah - langkah
 
 ![run 8](https://user-images.githubusercontent.com/115801823/200349525-e1c11a7c-b35e-4645-9c02-99cb14c80ab7.PNG)
 
-###TERIMA KASIH.
+TERIMA KASIH.
