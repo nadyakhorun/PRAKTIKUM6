@@ -1,6 +1,6 @@
-KONDISI DAN PERULANGAN
-Lab 2 Struktur Kondisi
-Latihan 1
+##KONDISI DAN PERULANGAN
+###Lab 2 Struktur Kondisi
+####Latihan 1
 • Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if!
 
 Langkah - langkah
